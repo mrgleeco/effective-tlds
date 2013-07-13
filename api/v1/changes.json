@@ -1,0 +1,542 @@
+[
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-aac78788c18696abc943d34d8c774d22195749fa",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/aac78788c186",
+      "msg" : "Bug 864704 - re-add csiro.au to PSL. DONTBUILD.",
+      "name" : "Gervase Markham",
+      "published" : "2013-07-11T13:39:16+01:00",
+      "title" : "Bug 864704 - re-add csiro.au to PSL. DONTBUILD.",
+      "updated" : "2013-07-11T13:39:16+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-2d8efa129514c0bcd3e1830986402dbb0e456f87",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/2d8efa129514",
+      "msg" : "Bug 880662 - Add fastly.net to PSL. r=gerv. DONTBUILD.",
+      "name" : "Simone Carletti",
+      "published" : "2013-07-11T13:36:41+01:00",
+      "title" : "Bug 880662 - Add fastly.net to PSL. r=gerv. DONTBUILD.",
+      "updated" : "2013-07-11T13:36:41+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-7b39c8bec2953f105393a71855ccfe6f5398daa2",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/7b39c8bec295",
+      "msg" : "Bug 859521 - Add AWS EC2 to PSL. r=gerv. DONTBUILD.",
+      "name" : "Simone Carletti",
+      "published" : "2013-06-06T16:00:03+01:00",
+      "title" : "Bug 859521 - Add AWS EC2 to PSL. r=gerv. DONTBUILD.",
+      "updated" : "2013-06-06T16:00:03+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-481e9a3d1cf25116a67e7f0877cd6e2a06a1c106",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/481e9a3d1cf2",
+      "msg" : "Backed out changeset f8a861253c57 (bug 859521) due to bustage.",
+      "name" : "Ryan VanderMeulen",
+      "published" : "2013-05-14T12:49:26-04:00",
+      "title" : "Backed out changeset f8a861253c57 (bug 859521) due to bustage.",
+      "updated" : "2013-05-14T12:49:26-04:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-0970b574e59c5b3af1d6e47aa81fe028da09890f",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/0970b574e59c",
+      "msg" : "Bug 868331 - Add Heroku CloudFront to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-05-14T17:38:11+01:00",
+      "title" : "Bug 868331 - Add Heroku CloudFront to PSL. r=gerv.",
+      "updated" : "2013-05-14T17:38:11+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-f8a861253c576efa80b01baa5e4e949e564bcd5e",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/f8a861253c57",
+      "msg" : "Bug 859521 - Add AWS EC2 to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-05-14T17:35:44+01:00",
+      "title" : "Bug 859521 - Add AWS EC2 to PSL. r=gerv.",
+      "updated" : "2013-05-14T17:35:44+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-45cfff9c781f01852a9b313338d5c66c5d456e5e",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/45cfff9c781f",
+      "msg" : "Bug 863169 - Add GitHub Pages to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-04-23T11:51:10+01:00",
+      "title" : "Bug 863169 - Add GitHub Pages to PSL. r=gerv.",
+      "updated" : "2013-04-23T11:51:10+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-ed5ef73d646e904216dcdff8bd25b378c828669b",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/ed5ef73d646e",
+      "msg" : "Bug 859234 - Add AWS Elastic Beanstalk to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-04-23T11:49:36+01:00",
+      "title" : "Bug 859234 - Add AWS Elastic Beanstalk to PSL. r=gerv.",
+      "updated" : "2013-04-23T11:49:36+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-d0a75bdaa01efe52672396c1ea42f39143e38099",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/d0a75bdaa01e",
+      "msg" : "Bug 857497 - reorder private part of PSL into alphabetical order by company. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-04-04T20:34:53+01:00",
+      "title" : "Bug 857497 - reorder private part of PSL into alphabetical order by company. r=gerv.",
+      "updated" : "2013-04-04T20:34:53+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-f372d173b948709d996adc74ed1d0f769bdaeac9",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/f372d173b948",
+      "msg" : "Bug 853810 - Add .POST to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-03-29T16:19:05+00:00",
+      "title" : "Bug 853810 - Add .POST to PSL. r=gerv.",
+      "updated" : "2013-03-29T16:19:05+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-952a136276e9bd4adf8569fb64a3a1ef723b537a",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/952a136276e9",
+      "msg" : "Bug 853805 - Add .CW to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-03-29T14:44:17+00:00",
+      "title" : "Bug 853805 - Add .CW to PSL. r=gerv.",
+      "updated" : "2013-03-29T14:44:17+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-37fbc474ed187f3cb0b30939637c0201673efd5b",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/37fbc474ed18",
+      "msg" : "Bug 849816 - Add nyc.mn to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-03-28T17:11:14+00:00",
+      "title" : "Bug 849816 - Add nyc.mn to PSL. r=gerv.",
+      "updated" : "2013-03-28T17:11:14+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-d9d91dde95a325151591c0d346e09da2426da96b",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/d9d91dde95a3",
+      "msg" : "Bug 854388 - Add AWS CloudFront to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-03-28T17:10:22+00:00",
+      "title" : "Bug 854388 - Add AWS CloudFront to PSL. r=gerv.",
+      "updated" : "2013-03-28T17:10:22+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-16eb654ae7436c6378cf87d0d96ec5ced2dbbed2",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/16eb654ae743",
+      "msg" : "Bug 854463 - Add AWS S3 to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-03-28T17:09:36+00:00",
+      "title" : "Bug 854463 - Add AWS S3 to PSL. r=gerv.",
+      "updated" : "2013-03-28T17:09:36+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-e3c08b01675e907fb9a5ce9bb83bcef90f0a3cca",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/e3c08b01675e",
+      "msg" : "Bug 855715 - Add AWS ELB to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-03-28T17:08:06+00:00",
+      "title" : "Bug 855715 - Add AWS ELB to PSL. r=gerv.",
+      "updated" : "2013-03-28T17:08:06+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-3af9909a49e4c7dc393fcb2fe83bc18d2b9c0d4c",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/3af9909a49e4",
+      "msg" : "Bug 841733 - update PSL for .id. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2013-02-15T15:43:06+00:00",
+      "title" : "Bug 841733 - update PSL for .id. r=gerv.",
+      "updated" : "2013-02-15T15:43:06+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-f3e2a5e354bdbc931d049f2a625771726bb86e21",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/f3e2a5e354bd",
+      "msg" : "Bug 888307 - remove extraneous dots which cause test failures. a=nonlibxul.",
+      "name" : "Gervase Markham",
+      "published" : "2013-01-22T15:05:15+00:00",
+      "title" : "Bug 888307 - remove extraneous dots which cause test failures. a=nonlibxul.",
+      "updated" : "2013-01-22T15:05:15+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-23932745c60f694926cf36a6ea2c7180957aa9c6",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/23932745c60f",
+      "msg" : "Bug 833307 - update PSL for .tz. r=gerv; a=nonlibxul.",
+      "name" : "Simone Carletti",
+      "published" : "2013-01-22T13:58:40+00:00",
+      "title" : "Bug 833307 - update PSL for .tz. r=gerv; a=nonlibxul.",
+      "updated" : "2013-01-22T13:58:40+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-3b9ab5404a25d694034109b6f40c4da9b6f5e933",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/3b9ab5404a25",
+      "msg" : "Bug 822238 - add global rule for .py and remove bogus exceptions. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-12-20T14:03:52+00:00",
+      "title" : "Bug 822238 - add global rule for .py and remove bogus exceptions. r=gerv.",
+      "updated" : "2012-12-20T14:03:52+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-05b11a8d1aced63fc194e39aeec1415646fa5d51",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/05b11a8d1ace",
+      "msg" : null,
+      "name" : "Gervase Markham",
+      "published" : "2012-11-09T13:33:40+00:00",
+      "title" : "Bug 797147 - Update PSL for .UK. Temporary reversion of part of change until",
+      "updated" : "2012-11-09T13:33:40+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-c61f326ad19fac5814c41ad4274ff5199bd27cf1",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/c61f326ad19f",
+      "msg" : "Bug 757367 - Add !teledata.mz to PSL. r=weppos.",
+      "name" : "Gervase Markham",
+      "published" : "2012-10-25T11:02:22+01:00",
+      "title" : "Bug 757367 - Add !teledata.mz to PSL. r=weppos.",
+      "updated" : "2012-10-25T11:02:22+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-d6565f0623aa20979d261d97f29e8442de660f60",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/d6565f0623aa",
+      "msg" : "Bug 791770 - Fix csiro.au entry in PSL. r=weppos.",
+      "name" : "Gervase Markham",
+      "published" : "2012-10-25T11:01:58+01:00",
+      "title" : "Bug 791770 - Fix csiro.au entry in PSL. r=weppos.",
+      "updated" : "2012-10-25T11:01:58+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-eaf92cd39600541b8a71a8a21e2738043aacaf49",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/eaf92cd39600",
+      "msg" : "Bug 805367 - PSL changes for Google private domains. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-25T11:01:30+01:00",
+      "title" : "Bug 805367 - PSL changes for Google private domains. r=gerv.",
+      "updated" : "2012-10-25T11:01:30+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-0ab2ca659ccfd18a25eb4bdbb71581a5ecf7a405",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/0ab2ca659ccf",
+      "msg" : "Bug 791117 - Addition to the public suffix list (betainabox.com). r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-25T11:00:42+01:00",
+      "title" : "Bug 791117 - Addition to the public suffix list (betainabox.com). r=gerv.",
+      "updated" : "2012-10-25T11:00:42+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-56fe645c69d17cc374a4913bdbd4c9b615d86735",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/56fe645c69d1",
+      "msg" : "Bug 805370 - PSL changes for Red Hat private domains. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-25T11:00:04+01:00",
+      "title" : "Bug 805370 - PSL changes for Red Hat private domains. r=gerv.",
+      "updated" : "2012-10-25T11:00:04+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-355a2ac5f897870ea3288846caab248ac3a09cd7",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/355a2ac5f897",
+      "msg" : "Bug 779834 - Update .py entry in PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-25T10:58:58+01:00",
+      "title" : "Bug 779834 - Update .py entry in PSL. r=gerv.",
+      "updated" : "2012-10-25T10:58:58+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-2e780fd05fbf4da309fef5795205ca446fbf1c02",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/2e780fd05fbf",
+      "msg" : "Bug 802563 - update PSL for .gt. r=weppos.",
+      "name" : "Gervase Markham",
+      "published" : "2012-10-24T11:42:41+01:00",
+      "title" : "Bug 802563 - update PSL for .gt. r=weppos.",
+      "updated" : "2012-10-24T11:42:41+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-f6ce9ce830399fca617695de08b10b5e05c284e2",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/f6ce9ce83039",
+      "msg" : "Bug 790962 - update PSL for dreamhosters.com. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-12T16:24:05+01:00",
+      "title" : "Bug 790962 - update PSL for dreamhosters.com. r=gerv.",
+      "updated" : "2012-10-12T16:24:05+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-0d4a69564d1742c836b629152573defddefb4863",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/0d4a69564d17",
+      "msg" : "Bug 797147 - update PSL for .uk. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-12T16:23:14+01:00",
+      "title" : "Bug 797147 - update PSL for .uk. r=gerv.",
+      "updated" : "2012-10-12T16:23:14+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-12b5f4b2f29929902045c69add78cf275b920208",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/12b5f4b2f299",
+      "msg" : "Bug 761769 - Update PSL for .ve. Take 2. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-05T14:28:00+01:00",
+      "title" : "Bug 761769 - Update PSL for .ve. Take 2. r=gerv.",
+      "updated" : "2012-10-05T14:28:00+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-ca480aedae9ddd448757ddeb29339727aa99af6e",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/ca480aedae9d",
+      "msg" : "Backout 953079e94edd (bug 791769) for xpcshell failures",
+      "name" : "Ed Morley",
+      "published" : "2012-10-05T11:59:25+01:00",
+      "title" : "Backout 953079e94edd (bug 791769) for xpcshell failures",
+      "updated" : "2012-10-05T11:59:25+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-f8cfc0866c0caa4ca311899d9d0cc4759079c228",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/f8cfc0866c0c",
+      "msg" : "Bug 797787 - Update CentralNic submission date in PSL and make list alphabetical. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-05T11:10:50+01:00",
+      "title" : "Bug 797787 - Update CentralNic submission date in PSL and make list alphabetical. r=gerv.",
+      "updated" : "2012-10-05T11:10:50+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-953079e94edd37cda5c99fc5e64feb968097447a",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/953079e94edd",
+      "msg" : "Bug 791769 - Update PSL for .ve. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-05T11:09:26+01:00",
+      "title" : "Bug 791769 - Update PSL for .ve. r=gerv.",
+      "updated" : "2012-10-05T11:09:26+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-ea93afa3c7b7832ab5820d012c1f1035784cb3f2",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/ea93afa3c7b7",
+      "msg" : "Bug 794882 - Add hu.net to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-10-02T12:59:31+01:00",
+      "title" : "Bug 794882 - Add hu.net to PSL. r=gerv.",
+      "updated" : "2012-10-02T12:59:31+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-102932f46b8adc941848dba4f178721b5c1c34c2",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/102932f46b8a",
+      "msg" : "Bug 790635 - Add eco.br to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-09-14T14:58:47+01:00",
+      "title" : "Bug 790635 - Add eco.br to PSL. r=gerv.",
+      "updated" : "2012-09-14T14:58:47+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-b4340b569c89213b548257d10536882479f1bbef",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/b4340b569c89",
+      "msg" : "Bug 772069 - Update .uy entry in PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-09-13T16:03:23+01:00",
+      "title" : "Bug 772069 - Update .uy entry in PSL. r=gerv.",
+      "updated" : "2012-09-13T16:03:23+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-d1852189937268eaed7833e886f7b299c2bb709d",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/d18521899372",
+      "msg" : "Bug 760447 - Update .ua entry in PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-09-13T16:02:38+01:00",
+      "title" : "Bug 760447 - Update .ua entry in PSL. r=gerv.",
+      "updated" : "2012-09-13T16:02:38+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-290afd57d2a82cd5d0d533ada653bd12fcbac180",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/290afd57d2a8",
+      "msg" : "Bug 763208 - Update .jp entry in PSL.",
+      "name" : "Gervase Markham",
+      "published" : "2012-07-04T16:08:35+01:00",
+      "title" : "Bug 763208 - Update .jp entry in PSL.",
+      "updated" : "2012-07-04T16:08:35+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-1ede57501820632ac132f0fdf81c3dd9e2f75a3e",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/1ede57501820",
+      "msg" : "Bug 767700 - fix line endings to be consistent. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-06-25T18:11:45+01:00",
+      "title" : "Bug 767700 - fix line endings to be consistent. r=gerv.",
+      "updated" : "2012-06-25T18:11:45+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-c98f1c1ee9137f019593e3deabbe2d079954186e",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/c98f1c1ee913",
+      "msg" : "Bug 767312 - update PSL for .sh. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-06-22T13:50:56+01:00",
+      "title" : "Bug 767312 - update PSL for .sh. r=gerv.",
+      "updated" : "2012-06-22T13:50:56+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-2c330a313099f48779d0c93c940ea6d076240598",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/2c330a313099",
+      "msg" : "Bug 757005 - add .sx to PSL. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-06-20T16:06:54+01:00",
+      "title" : "Bug 757005 - add .sx to PSL. r=gerv.",
+      "updated" : "2012-06-20T16:06:54+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-c5b6ac34b29302defc2f089f3bf082ee6412fa50",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/c5b6ac34b293",
+      "msg" : "Bug 732960 - update PSL to remove misleading comment. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-06-20T11:24:01+01:00",
+      "title" : "Bug 732960 - update PSL to remove misleading comment. r=gerv.",
+      "updated" : "2012-06-20T11:24:01+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-73f7f66eff233a5087a52c5c9a98d7a7e2c002bc",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/73f7f66eff23",
+      "msg" : "Bug 732960 - standardize PSL comment spacing. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-06-20T11:23:22+01:00",
+      "title" : "Bug 732960 - standardize PSL comment spacing. r=gerv.",
+      "updated" : "2012-06-20T11:23:22+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-b85228aa12d93879b97f4394222046ff3b98a404",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/b85228aa12d9",
+      "msg" : "Bug 732960 - update PSL for .sd, .ug and .uz. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-06-20T11:22:55+01:00",
+      "title" : "Bug 732960 - update PSL for .sd, .ug and .uz. r=gerv.",
+      "updated" : "2012-06-20T11:22:55+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-13dc379a78be94569284f556cc7202b704e24d93",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/13dc379a78be",
+      "msg" : "Bug 732960 - update PSL comments for .sg and .tj. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-06-20T11:22:16+01:00",
+      "title" : "Bug 732960 - update PSL comments for .sg and .tj. r=gerv.",
+      "updated" : "2012-06-20T11:22:16+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-cb93774e54b3e498f0448ff1003c90b867361f0c",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/cb93774e54b3",
+      "msg" : "Bug 732960 - update PSL for .tm. r=gerv.",
+      "name" : "Simone Carletti",
+      "published" : "2012-06-20T11:21:23+01:00",
+      "title" : "Bug 732960 - update PSL for .tm. r=gerv.",
+      "updated" : "2012-06-20T11:21:23+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-7c3cd4824f94609d4ad714bea9c687227c641e63",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/7c3cd4824f94",
+      "msg" : "Bug 759095 - upgrade license to MPL 2, and other licensing cleanups.",
+      "name" : "Gervase Markham",
+      "published" : "2012-05-29T16:52:43+01:00",
+      "title" : "Bug 759095 - upgrade license to MPL 2, and other licensing cleanups.",
+      "updated" : "2012-05-29T16:52:43+01:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-edfcadccf600d4d242c6a0e2fc4ecf53e088343a",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/edfcadccf600",
+      "msg" : "Bug 716607 - Add .pm, .wf, .yt to PSL. r=pkasting.",
+      "name" : "Gervase Markham",
+      "published" : "2012-03-20T15:04:40+00:00",
+      "title" : "Bug 716607 - Add .pm, .wf, .yt to PSL. r=pkasting.",
+      "updated" : "2012-03-20T15:04:40+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-91e535989963bfe7389caa6061d06681b36bb9a4",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/91e535989963",
+      "msg" : "Bug 712640 - Split PSL into &quot;registry&quot; and &quot;owner-requested&quot; sections. r=pkasting.",
+      "name" : "Gervase Markham",
+      "published" : "2012-03-06T11:49:00+00:00",
+      "title" : "Bug 712640 - Split PSL into &quot;registry&quot; and &quot;owner-requested&quot; sections. r=pkasting.",
+      "updated" : "2012-03-06T11:49:00+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-3e82c0f0bde72fe16f35d430f6d537ce4e4a75e0",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/3e82c0f0bde7",
+      "msg" : "Bug 694030 - make .qa have open registration at 2nd level in PSL. r=gerv.",
+      "name" : "Jothan Frakes",
+      "published" : "2012-02-21T16:54:15+00:00",
+      "title" : "Bug 694030 - make .qa have open registration at 2nd level in PSL. r=gerv.",
+      "updated" : "2012-02-21T16:54:15+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-169986c334feb5fb330fee24d673d0e2823e5383",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/169986c334fe",
+      "msg" : "Bug 688908 - standardize formatting of .asia entry in PSL. r=gerv.",
+      "name" : "Jothan Frakes",
+      "published" : "2012-02-21T16:51:34+00:00",
+      "title" : "Bug 688908 - standardize formatting of .asia entry in PSL. r=gerv.",
+      "updated" : "2012-02-21T16:51:34+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-5df1802a9812be7e677a8fbff77651f0c2238369",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/5df1802a9812",
+      "msg" : "Bug 687459 - add co.ua and pp.ua private registries to PSL.",
+      "name" : "Gervase Markham",
+      "published" : "2012-02-21T16:50:02+00:00",
+      "title" : "Bug 687459 - add co.ua and pp.ua private registries to PSL.",
+      "updated" : "2012-02-21T16:50:02+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-8e4c6751fff6f111fe99c95f8ca8fd722049f892",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/8e4c6751fff6",
+      "msg" : "Bug 685781 - add CentralNIC domain jp.net to the PSL.",
+      "name" : "Gervase Markham",
+      "published" : "2012-02-21T16:45:36+00:00",
+      "title" : "Bug 685781 - add CentralNIC domain jp.net to the PSL.",
+      "updated" : "2012-02-21T16:45:36+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-8ce5ae7b065b72a7bb9c2df24b9f58cb4944440e",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/8ce5ae7b065b",
+      "msg" : "Bug 676359 - add exceptions for www.ck and www.gt to PSL.",
+      "name" : "Gervase Markham",
+      "published" : "2012-02-21T16:42:44+00:00",
+      "title" : "Bug 676359 - add exceptions for www.ck and www.gt to PSL.",
+      "updated" : "2012-02-21T16:42:44+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-843829a9625342f0145d03020977ec1cd6767a58",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/843829a96253",
+      "msg" : "Bug 666500 - Add co.cl and mil.cl to PSL.",
+      "name" : "Gervase Markham",
+      "published" : "2012-02-21T16:39:47+00:00",
+      "title" : "Bug 666500 - Add co.cl and mil.cl to PSL.",
+      "updated" : "2012-02-21T16:39:47+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-b2adc8201464c49b4453a6671bd2a25c61f81856",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/b2adc8201464",
+      "msg" : "Bug 661509 - remove .yu from PSL. r=gerv.",
+      "name" : "Jothan Frakes",
+      "published" : "2012-02-21T16:37:59+00:00",
+      "title" : "Bug 661509 - remove .yu from PSL. r=gerv.",
+      "updated" : "2012-02-21T16:37:59+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-48a08d7ecc0c03883606e44b4d4b1abb46f43d0d",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/48a08d7ecc0c",
+      "msg" : "Bug 660387 - add co.ca to PSL. r=gerv.",
+      "name" : "Jothan Frakes",
+      "published" : "2012-02-21T16:35:52+00:00",
+      "title" : "Bug 660387 - add co.ca to PSL. r=gerv.",
+      "updated" : "2012-02-21T16:35:52+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-8a56b449f8bcbe3c4cbec7c75860a35525a8a445",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/8a56b449f8bc",
+      "msg" : "Bug 660215 - remove .local from PSL. Patch by Jothan Frakes; r=gerv.",
+      "name" : "Gervase Markham",
+      "published" : "2012-02-21T16:34:03+00:00",
+      "title" : "Bug 660215 - remove .local from PSL. Patch by Jothan Frakes; r=gerv.",
+      "updated" : "2012-02-21T16:34:03+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-bb68ca933ea8350a6f952e45130b9d6a6d34f0f3",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/bb68ca933ea8",
+      "msg" : "Bug 621708 - update .au entry in PSL. Patch by pkasting; r=gerv.",
+      "name" : "Gervase Markham",
+      "published" : "2012-02-21T16:32:55+00:00",
+      "title" : "Bug 621708 - update .au entry in PSL. Patch by pkasting; r=gerv.",
+      "updated" : "2012-02-21T16:32:55+00:00"
+   },
+   {
+      "id" : "http://hg.mozilla.org/mozilla-central/#changeset-78aceec533f21a085c847c16fd22a153006774d7",
+      "link" : "http://hg.mozilla.org/mozilla-central/rev/78aceec533f2",
+      "msg" : "Bug 660315 - Add three entries to PSL: us.org, com.de, gr.com. r=gerv.",
+      "name" : "Jothan Frakes",
+      "published" : "2011-11-21T14:43:54+00:00",
+      "title" : "Bug 660315 - Add three entries to PSL: us.org, com.de, gr.com. r=gerv.",
+      "updated" : "2011-11-21T14:43:54+00:00"
+   }
+]
